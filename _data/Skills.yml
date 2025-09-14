@@ -2,11 +2,18 @@ subject: Skills
 listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages
+  - title: Languages
     description: "
-     
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Python/Python-original.svg)
     "
-  - title: Frameworks
+  - title: Operating Systems
     description: "
-     
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windowserver/windowsever-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
     "
