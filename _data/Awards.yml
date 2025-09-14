@@ -3,12 +3,13 @@ listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
   - title: Microsoft Azure
-    description: "[AZ-104](https://learn.microsoft.com/en-us/certifications/exams/az-104/), AZ-204, AZ-350, AZ-400, AZ-500, AZ-700, AZ-900, SC900"
-   
+    description: "[AZ-104](https://learn.microsoft.com/en-gb/users/onghocksoon-8999/credentials/76f5fabdcaf05b98?ref=https%3A%2F%2Fwfshun.github.io%2F), [AZ-204] (https://learn.microsoft.com/en-gb/users/onghocksoon-8999/credentials/7d03550a692cf07c?ref=https%3A%2F%2Fwfshun.github.io%2F), AZ-350 (https://learn.microsoft.com/en-gb/users/onghocksoon-8999/credentials/357416ee6cf411c8?ref=https%3A%2F%2Fwfshun.github.io%2F), AZ-400 (https://learn.microsoft.com/en-gb/users/onghocksoon-8999/credentials/95713f6d6a977650?ref=https%3A%2F%2Fwfshun.github.io%2F), AZ-500 (https://learn.microsoft.com/api/credentials/share/en-us/OngHockSoon-8999/B987AF43BA471683?sharingId=343CE5989FD29592), AZ-700 (https://learn.microsoft.com/en-gb/users/onghocksoon-8999/credentials/4c92c8aef85c7008?ref=https%3A%2F%2Fwfshun.github.io%2F), AZ-900 (https://learn.microsoft.com/en-gb/users/onghocksoon-8999/credentials/ae4a0378f2da049f?ref=https%3A%2F%2Fwfshun.github.io%2F), SC900 (https://learn.microsoft.com/en-gb/users/onghocksoon-8999/credentials/815782374434f707?ref=https%3A%2F%2Fwfshun.github.io%2F)"
+       
+  - title: Cisco Network Academy
+    description: "[Cisco Certified Network Associate (CCNA)] ,(https://www.credly.com/badges/34b104b8-5b6c-4a7d-bcfb-a9913771ded1/public_url)"
     
-  - title: Cisco Certified Network Associate (CCNA)
-    description: Cisco Networking Academy
-    date: Jul. 2013
-  - title: 
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Oracle University
+    description: "[Oracle Cloud Infrastructure 2025 Certified AI Foundation Assocaite], (https://catalog-education.oracle.com/ords/certview/sharebadge?id=D263130452176C90B69FAE217308908A01038ECCE042A82DF1707725AF06AAFA)"
+   
+    title: Axelos
+    desacription: ITILv4 Foundation
