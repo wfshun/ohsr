@@ -4,7 +4,7 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Languages
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Python/Python-original.svg)
+      ![devicon](https://github.com/devicons/devicon/blob/v2.17.0/icons/powershell/powershell-original.svg)
     "
   - title: Operating Systems
     description: "
