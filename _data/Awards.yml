@@ -1,5 +1,5 @@
 subject: Certificate
-listing-order: 6
+listing-order: 1
 icon: "/assets/img/trophy.svg"
 contents:
   - title: Microsoft Azure
@@ -11,5 +11,5 @@ contents:
   - title: Oracle University
     description: "[Oracle Cloud Infrastructure 2025 Certified AI Foundation Assocaite](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D263130452176C90B69FAE217308908A01038ECCE042A82DF1707725AF06AAFA)"
    
-    title: Axelos
+  - title: Axelos
     desacription: ITILv4 Foundation
