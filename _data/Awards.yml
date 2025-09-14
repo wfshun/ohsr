@@ -3,7 +3,8 @@ listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
   - title: Microsoft Azure
-    description: Association for Natural Language Processing
+    description: AZ104
+    link: https://learn.microsoft.com/en-gb/users/onghocksoon-8999/credentials/76f5fabdcaf05b98?ref=https%3A%2F%2Fwfshun.github.io%2F
     
   - title: Cisco Certified Network Associate (CCNA)
     description: Cisco Networking Academy
