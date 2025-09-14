@@ -5,8 +5,7 @@ contents:
   - title: Operating Systems
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg)     
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg)
     "    
@@ -33,5 +32,9 @@ contents:
   - title: Monitoring
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg)
+    "
+
+  - title: Ticketing
+    description: "
       ![devicon](https://cdn.brandfetch.io/idn6njzi5Z/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1677205841008)
     "
