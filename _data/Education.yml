@@ -3,9 +3,9 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Temasek Polytechnic, Diploma in Computer Engineering
-    description:
-      - Learning different domain of computer engineering such as embedded system, digital system design, microcontroller programming and computer networking
-      - Problem Base Learning (PBL) projects
+  #  description:
+  #    - Learning different domain of computer engineering such as embedded system, digital system design, microcontroller programming and computer networking
+  #    - Problem Base Learning (PBL) projects
     date: 1997 - 2000
   #- title: Stanfort University, MA in Computer Science
   #  description:
