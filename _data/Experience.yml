@@ -44,8 +44,51 @@ contents:
   - title: Rockwell Collins (Information Management Services)
     role: Staff Engineer
     description: 
-      - Delivered IT support across 12 countries, ensuring hardware/software resolution and video conferencing support for 200+ staff
+      - Delivered IT support across 12 countries, ensuring hardware/software resolution and video conferencing support for 200+ staff.
       - Liaised with Technology Services Engineers and Analysts from Annapolis on diverse IT projects.
       - Collaborated with Annapolis headquarters for seamless laptop and desktop replacement across the Asia workforce, involving strategic planning and stakeholder coordination.
-      - Administered Active Directory, managed Exchange operation, and Executed Daily Tape Backups
+      - Administered Active Directory, managed Exchange operation, and Executed Daily Tape Backups.
     date: May. 2012 - Jan. 2017
+
+  - title: ST Electronic (Info-Comm)
+    role: Senior Associate Engineer
+    description: 
+      - Managed Configuration Management across 20+ sites, 100+ servers, and 25 firewalls.
+      - Documented BigFix/Tivoli setup for system maintenance use.
+      - Served as BMS, providing 2nd level onsite technical support.     
+    date: Aug. 2011 - May. 2012
+
+  - title: Doric Solution LLP
+    role: IT Consultant
+    description: 
+      - Delivered IT support and network solutions for customers, specializing in domain controller setups, application setups, file server migrations, and network infrastructure.
+      - Developed and deployed custom IT solutions for various businesses, improving productivity and efficiency
+    date: Apr. 2007 - July. 2011
+
+  - title: Nanyang Technological Universtity
+    role: IT Executive
+    description: 
+      - Delivered comprehensive IT support to staff, enhancing academic operations.
+      - Administered Linux/Windows servers, ensuring robust system performance.
+      - Upgraded lab equipment & software, boosting academic and research capabilities
+    date: Nov. 2004 - Apr. 2007
+
+  - title: Hewlett Packard
+    role:  Technical Support Specialist Plus System Administrator
+    description: 
+      - Provided IT support to Singapore Forces users, ensuring all services met the defined Service Level Agreements (SLA).
+      - Managed and maintained ARCserve IT 6.6 Server operations using Novell NetWare management tools.
+      - Performed daily incremental and full system backups with ARCserve Backup Management software.
+      - Coordinated with third-party vendors and internal application teams to resolve IT-related issues.
+      - Documented server configurations, inventory records, and IP address allocations.
+    date:  Aug. 2003 - Oct. 2004
+
+  - title: OPUS IT Service Pte Ltd
+    role: Customer IT Support Representive
+    description: 
+      - Resolved IT issues in Call Center for Singapore General Hospital project.
+      - Cloned 500 laptops to IBM machines within a tight 1-month deadline for PWCC
+    date: May. 2003 - Aug. 2003
+
+ 
+ 
