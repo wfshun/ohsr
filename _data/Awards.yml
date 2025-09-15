@@ -12,4 +12,10 @@ contents:
     description: "[Oracle Cloud Infrastructure 2025 Certified AI Foundation Assocaite](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D263130452176C90B69FAE217308908A01038ECCE042A82DF1707725AF06AAFA)"
    
   - title: Axelos
-    desacription: ITILv4 Foundation
+    description: ITILv4 Foundation
+
+  - title: Elastic
+    description: Data Analysis with Kibana (On-Demand)
+
+  - title: ServiceNow
+    description: ServiceNow Fundamental (On Demand), ServiceNow Platform Analytics (PA) Overview
