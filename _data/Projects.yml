@@ -1,8 +1,8 @@
- subject: Blog
+ subject: Achievement and Projects
  listing-order: 3
  icon: "/assets/img/clipboard-list.svg"
  contents:
- - title: "[IT Blog Site at Wordpress](https://wfshun.wordpress.com/)"
+ #- title: 
  #   description: 
  #     - Chatbot developed based on a large language model
  #     - Designed Generative algorithm to generate novel human-like content

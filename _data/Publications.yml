@@ -1,7 +1,8 @@
-subject: Achievement and Projects
+subject:  Blog
 listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
+- title: "[IT Blog Site at Wordpress](https://wfshun.wordpress.com/)"
   #- title: Journal
   #  ref: 
   #    - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
