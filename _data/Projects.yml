@@ -8,13 +8,13 @@ contents:
       - Successfully deployed Entrust Identity Guard Soft Token and upgraded Microsoft Office 365 for APAC.
       - Successfully upgrade the Microsoft Office 2016 to Office 365 for the APAC region 
     #image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-
- # - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
- #   description: 
- #     - Universal Command Line Interface for Amazone Web Services
- #     - Developed a scheme to facilitate users’ authentication without having to remember their credentials
- #     - "Technology Used: Typescript, Python, Go"
- #   image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+  - title: "Assocaite with Trend Micro"
+    description: 
+      - Coordinated the live streaming of the first global high communication meeting in Singapore, breaking records with 2000+ connections.
+      - Led the office moves and ensured smooth system transitions, including the setup of a new training room with Zoom integration.
+      - Revamped the Training Room 2 Dell 86’ TV to allow 1 for Zoom share presentation and the other using Zoom whiteboard. The additional machine will act secondary backup if the primary machine is down.
+      - Implemented Evoko Liso room booking solutions to facilitate the booking of meeting rooms. Office 365 for the APAC region 
+    #image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
  # - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
  #   description: 
  #     - Machine learning library for applications such as computer vision and natural language processing
