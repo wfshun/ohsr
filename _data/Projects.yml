@@ -1,13 +1,14 @@
-subject: Projects
+subject: Archivement
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Assocaite with Intrado
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+      - Conducted business continuity exercises to enable the Call Centre and executive staff to work from home during the 
+        COVID outbreak.
+      - Successfully deployed Entrust Identity Guard Soft Token and upgraded Microsoft Office 365 for APAC.
+      - Successfully upgrade the Microsoft Office 2016 to Office 365 for the APAC region
+    # image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
 
  # - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
  #   description: 
