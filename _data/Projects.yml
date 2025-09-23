@@ -17,7 +17,7 @@
   integration.
     - Revamped the Training Room 2 Dell 86’ TV to allow 1 for Zoom share presentation and the other using Zoom whiteboard. 
   The additional machine will act secondary backup if the primary machine is down.
-    - Implemented Evoko Liso room booking solutions to facilitate the booking of meeting rooms
+    - Implemented Evoko Liso room booking solutions to facilitate the booking of meeting rooms.
 
  #    - Designed Generative algorithm to generate novel human-like content
  #    - "Technology Used: Rust, Typescript, Python, Ruby"
