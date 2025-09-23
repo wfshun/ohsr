@@ -4,9 +4,9 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "ChatPPT"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
+      - Conducted business continuity exercises to enable the Call Centre and executive staff to work from home during the COVID outbreak.
+      - Successfully deployed Entrust Identity Guard Soft Token and upgraded Microsoft Office 365 for APAC.
+      - Successfully upgrade the Microsoft Office 2016 to Office 365 for the APAC region 
     #image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
 
  # - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
