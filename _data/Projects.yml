@@ -2,11 +2,25 @@
  listing-order: 3
  icon: "/assets/img/clipboard-list.svg"
  contents:
- #- title: 
- #   description: 
- #     - Chatbot developed based on a large language model
- #     - Designed Generative algorithm to generate novel human-like content
- #     - "Technology Used: Rust, Typescript, Python, Ruby"
+ title: Assiocate with Intrado
+   description: 
+    - Conducted business continuity exercises to enable the Call Centre and executive staff to work from home during the 
+  COVID outbreak.
+    - Successfully deployed Entrust Identity Guard Soft Token and upgraded Microsoft Office 365 for APAC.
+    - Successfully upgrade the Microsoft Office 2016 to Office 365 for the APAC region 
+
+ title: Assiocate with Trend Mico 
+   description: 
+    - Coordinated the live streaming of the first global high communication meeting in Singapore, breaking records with 2000+
+  connections.
+     - Led the office moves and ensured smooth system transitions, including the setup of a new training room with Zoom
+  integration.
+    - Revamped the Training Room 2 Dell 86’ TV to allow 1 for Zoom share presentation and the other using Zoom whiteboard. 
+  The additional machine will act secondary backup if the primary machine is down.
+    - Implemented Evoko Liso room booking solutions to facilitate the booking of meeting rooms
+
+ #    - Designed Generative algorithm to generate novel human-like content
+ #    - "Technology Used: Rust, Typescript, Python, Ruby"
  #   image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
  # - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
  #   description: 
