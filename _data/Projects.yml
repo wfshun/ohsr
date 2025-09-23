@@ -1,6 +1,6 @@
  subject: Achievements
   projects:
-  - title: Professional Experience
+ # - title: Professional Experience
  listing-order: 3
  icon: "/assets/img/clipboard-list.svg"
  contents:
