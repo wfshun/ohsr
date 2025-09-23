@@ -1,14 +1,14 @@
- subject: Achievements
+ subject: 
   projects:
  # - title: Professional Experience
  listing-order: 3
  icon: "/assets/img/clipboard-list.svg"
  contents:
-    - title: Assiocate with Intrado 
-      description: 
-        - Chatbot developed based on a large language model
-        - Designed Generative algorithm to generate novel human-like content
-        - "Technology Used: Rust, Typescript, Python, Ruby"
+ #  - title: Assiocate with Intrado 
+ #     description: 
+ #       - Chatbot developed based on a large language model
+ #       - Designed Generative algorithm to generate novel human-like content
+ #       - "Technology Used: Rust, Typescript, Python, Ruby"
  #   image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
  # - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
  #   description: 
