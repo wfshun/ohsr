@@ -14,11 +14,13 @@ contents:
       - Led the office moves and ensured smooth system transitions, including the setup of a new training room with Zoom integration.
       - Revamped the Training Room 2 Dell 86’ TV to allow 1 for Zoom share presentation and the other using Zoom whiteboard. The additional machine will act secondary backup if the primary machine is down.
       - Implemented Evoko Liso room booking solutions to facilitate the booking of meeting rooms. Office 365 for the APAC region.
-  - title: "Assocaite with Intrado"
+  - title: "Assocaite with Rockwell Collins (Information Management Services) (formerly ARINC)"
     description: 
-      - Conducted business continuity exercises to enable the Call Centre and executive staff to work from home during the COVID outbreak.
-      - Successfully deployed Entrust Identity Guard Soft Token and upgraded Microsoft Office 365 for APAC.
-      - Successfully upgrade the Microsoft Office 2016 to Office 365 for the APAC region   
+      - Implemented Hyper-V virtualization, accelerating setup times and reducing hardware needs for regional IT administration.
+      - Led the Annapolis Network Engineer on Switch Migration for Singapore Regional Office. 
+      - Proposed wireless network infrastructure to ensure good wireless connectivity throughout the Singapore office and Aruba Access Points were deployed as stated in the proposed plan.
+      - Proposed swapping of network connections to TS Messaging Analyst which was implemented and improved Exchange backup by 3 hours and provide better throughput in email Messaging Services to the Regional user.
+  
     #image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
  # - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
  #   description: 
