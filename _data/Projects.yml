@@ -14,14 +14,23 @@ contents:
       - Led the office moves and ensured smooth system transitions, including the setup of a new training room with Zoom integration.
       - Revamped the Training Room 2 Dell 86’ TV to allow 1 for Zoom share presentation and the other using Zoom whiteboard. The additional machine will act secondary backup if the primary machine is down.
       - Implemented Evoko Liso room booking solutions to facilitate the booking of meeting rooms. Office 365 for the APAC region.
-  - title: "Assocaite with Rockwell Collins (Information Management Services) (formerly ARINC)"
+  - title: "Assocaite with Rockwell Collins (Information Management Services)  (formerly ARINC)"
     description: 
       - Implemented Hyper-V virtualization, accelerating setup times and reducing hardware needs for regional IT administration.
       - Led the Annapolis Network Engineer on Switch Migration for Singapore Regional Office. 
       - Proposed wireless network infrastructure to ensure good wireless connectivity throughout the Singapore office and Aruba Access Points were deployed as stated in the proposed plan.
       - Proposed swapping of network connections to TS Messaging Analyst which was implemented and improved Exchange backup by 3 hours and provide better throughput in email Messaging Services to the Regional user.
+  - title: "Assocaite with Doric Solutions LLP
+    description: 
+      - Enhanced network infrastructure with domain controller upgrades for SME customers
+      - Launched inventory system to monitor IT assets via Spiceworks applications
+  - title: "Assocaite with Nanyang Technological University (School of Biological Sciences)
+    description: 
+    - Streamlined IT processes by deploying Acronis Snap Deploy on 110 workstations.
+    - Migrated Linux from Fedora Core to CentOS.
+    - Migrated Bioinformatics Application from Fedora Core to CentOS
   
-    #image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+ #image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
  # - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
  #   description: 
  #     - Machine learning library for applications such as computer vision and natural language processing
