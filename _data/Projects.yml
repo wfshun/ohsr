@@ -2,6 +2,12 @@ subject: Achivements
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
+  - title: "Assocaite with PCS Security"
+    description: 
+      - Develop NOC dashboards for the Incident Board (IB) using ServiceNow and Elastic Kibana.
+      - Collaborate with Platform Solutions to migrate UIM to Elasticsearch.
+      - Coodinate with the IT team to change email machine in NOC.
+      
   - title: "Assocaite with Intrado"
     description: 
       - Conducted business continuity exercises to enable the Call Centre and executive staff to work from home during the COVID outbreak.

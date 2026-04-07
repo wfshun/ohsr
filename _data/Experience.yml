@@ -7,7 +7,9 @@ contents:
     description:
       - Conducted data analysis in Kibana to identify the service responsible for the incident and provided findings to the Support Team.
       - Creating Monitoring Dashboard in Kibana
+      - Monitoring the observability of IT infrastructure for general servers and AI-specific Servers.
       - Managed and administered ServiceNow ticketing systems      
+      
     date: Nov. 2020 - Ongoing
 
   - title: Intrado EC Pte Ltd (formerly West Corporation)
